@@ -1,3 +1,7 @@
-print("hello git")
+<<<<<<< HEAD
+print("hello gitt")
 
-#revet me 
+#this main code
+=======
+print("hello git")
+>>>>>>> parent of fec3ae3... 2nd
