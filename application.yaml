@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/shivam779823/git-.git
     targetRevision: HEAD
-    path: guestbook
+    path: git-
   destination:
     server: https://kubernetes.default.svc
     namespace: guestbook
